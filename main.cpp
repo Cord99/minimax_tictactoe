@@ -2,7 +2,7 @@
 #include <conio.h>
 using namespace std;
 
-#define GRID_DIM 4
+#define GRID_DIM 3
 char mark[2] = {'X', 'O'};
 
 class Node{
